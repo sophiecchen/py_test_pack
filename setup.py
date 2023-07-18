@@ -7,5 +7,5 @@ setup(
     description='A simple regex package',
     author='Your Name',
     author_email='your.email@example.com',
-    url='https://github.com/sophiecchen/py_test_pack'
+    url='https://github.com/sophiecchen/py_test_pack',
 )
